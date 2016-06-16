@@ -1,5 +1,9 @@
 {
 	"name": "violuke/php-barcodes",
+	"description": "A collection of PHP classes for managing barcodes.",
+	"require": {
+		"php": "^5.0 || ^7.0",
+	},
 	"autoload": {
 		"psr-0" : {
 			"violuke\\Barcodes" : "src"
