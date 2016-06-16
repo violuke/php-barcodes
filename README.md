@@ -6,5 +6,9 @@ _Note: This project currently does nothing other than have some validation funct
 ## Usage
 TBC
 
+## TOOD:
+* Barcode generation
+* GS1-128 barcode generation and interpretation
+
 ## Credits
 * The barcode validation function was based on [work by Ferry Bouwhuis](http://www.phpclasses.org/package/8560-PHP-Detect-type-and-check-EAN-and-UPC-barcodes.html).
