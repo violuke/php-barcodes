@@ -1,0 +1,8 @@
+{
+	"name": "violuke/php-barcodes",
+	"autoload": {
+		"psr-0" : {
+			"violuke\\Barcodes" : "src"
+		}
+	}
+}
