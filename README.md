@@ -6,7 +6,7 @@ _Note: This project currently does nothing other than have some validation funct
 ## Usage
 TBC
 
-## TOOD:
+## TODO:
 * Barcode generation
 * GS1-128 barcode generation and interpretation
 
