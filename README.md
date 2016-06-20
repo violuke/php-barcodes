@@ -1,6 +1,10 @@
 # PHP Barcode
 A PHP class for checking EAN8, EAN13, UPC and GTIN barcodes are valid (based on check digit).
 
+[![Packagist](https://img.shields.io/packagist/v/violuke/php-barcodes.svg?maxAge=2592000)]()
+[![Packagist](https://img.shields.io/packagist/dt/violuke/php-barcodes.svg?maxAge=2592000)]()
+[![Packagist](https://img.shields.io/packagist/dm/violuke/php-barcodes.svg?maxAge=2592000)]()
+
 https://packagist.org/packages/violuke/php-barcodes
 
 _Note: This project currently does nothing other than have some validation functions. I expect to add additional functionality in the future._
