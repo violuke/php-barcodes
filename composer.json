@@ -1,6 +1,7 @@
 {
 	"name": "violuke/php-barcodes",
 	"description": "A collection of PHP classes for managing barcodes.",
+	"license": "GPL-3.0+",
 	"require": {
 		"php": "^5.0 || ^7.0"
 	},
