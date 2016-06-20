@@ -4,6 +4,7 @@ A PHP class for checking EAN8, EAN13, UPC and GTIN barcodes are valid (based on 
 [![Packagist](https://img.shields.io/packagist/v/violuke/php-barcodes.svg?maxAge=2592000)]()
 [![Packagist](https://img.shields.io/packagist/dt/violuke/php-barcodes.svg?maxAge=2592000)]()
 [![Packagist](https://img.shields.io/packagist/dm/violuke/php-barcodes.svg?maxAge=2592000)]()
+[![Packagist](https://img.shields.io/packagist/l/violuke/php-barcodes.svg?maxAge=2592000)]()
 
 https://packagist.org/packages/violuke/php-barcodes
 
