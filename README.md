@@ -41,11 +41,11 @@ echo 'Barcode is in format of ' . $bc_validator->getType();
 
 
 // Returns the barcode in GTIN-14 format
-$bc_validator->->getGTIN14()
+$bc_validator->getGTIN14()
 
 
 // Returns the barcode as entered
-$bc_validator->->getBarcode()
+$bc_validator->getBarcode()
 ```
 
 ## TODO:
