@@ -16,7 +16,7 @@ composer require violuke/php-barcodes
 ```
 
 ## Usage
-```
+```php
 // Class instantation
 $barcode = '5060411950139';
 $bc_validator = new \violuke\Barcodes\BarcodeValidator($barcode);
