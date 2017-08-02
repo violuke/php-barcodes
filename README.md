@@ -54,3 +54,5 @@ $bc_validator->getBarcode()
 
 ## Credits
 * The barcode validation function was based on [work by Ferry Bouwhuis](http://www.phpclasses.org/package/8560-PHP-Detect-type-and-check-EAN-and-UPC-barcodes.html).
+* EAN Restricted format added from the [hassel-it/php-barcodes](https://github.com/hassel-it/php-barcodes) fork.
+* Initial unit tests based on work in the [hassel-it/php-barcodes](https://github.com/hassel-it/php-barcodes) fork.
