@@ -9,5 +9,10 @@
 		"psr-0" : {
 			"violuke\\Barcodes" : "src"
 		}
+	},
+    "autoload-dev": {
+	  "psr-4": {
+		"violuke\\Barcodes\\Tests\\": "tests"
+	  }
 	}
 }
