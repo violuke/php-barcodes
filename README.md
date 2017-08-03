@@ -36,6 +36,7 @@ echo 'Barcode is in format of ' . $bc_validator->getType();
 // (string) "GTIN" which equals constant \violuke\Barcodes\BarcodeValidator::TYPE_GTIN
 // (string) "EAN-8" which equals constant \violuke\Barcodes\BarcodeValidator::TYPE_EAN_8
 // (string) "EAN" which equals constant \violuke\Barcodes\BarcodeValidator::TYPE_EAN
+// (string) "EAN Restricted" which equals constant \violuke\Barcodes\BarcodeValidator::TYPE_EAN_RESTRICTED
 // (string) "UPC" which equals constant \violuke\Barcodes\BarcodeValidator::TYPE_UPC
 // (string) "UPC Coupon Code" which equals constant \violuke\Barcodes\BarcodeValidator::TYPE_UPC_COUPON_CODE
 
