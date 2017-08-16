@@ -4,7 +4,12 @@ namespace violuke\Barcodes\Tests;
 
 use violuke\Barcodes\BarcodeValidator;
 
-class BarcodeValidatorTest extends \PHPUnit\Framework\TestCase
+// Nasty work around for testing over multiple PHPUnit versions
+if (!class_exists('PHPUnit_Framework_TestCase')) {
+    class PHPUnit_Framework_TestCase extends \PHPUnit\Framework\TestCase {}
+}
+
+class BarcodeValidatorTest extends \PHPUnit_Framework_TestCase
 {
 
     public function testInit()
