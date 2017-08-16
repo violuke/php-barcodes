@@ -4,7 +4,7 @@ namespace violuke\Barcodes\Tests;
 
 use violuke\Barcodes\BarcodeValidator;
 
-class BarcodeValidatorTest extends \PHPUnit_Framework_TestCase
+class BarcodeValidatorTest extends \PHPUnit\Framework\TestCase
 {
 
     public function testInit()
