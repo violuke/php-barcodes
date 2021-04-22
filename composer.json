@@ -3,10 +3,10 @@
 	"description": "A collection of PHP classes for managing barcodes.",
 	"license": "GPL-3.0+",
 	"require": {
-		"php": "^5.0 || ^7.0"
+		"php": "^5.0 || ^7.0 || ^8.0"
 	},
 	"require-dev": {
-		"phpunit/phpunit": "~4.8|~5.7"
+		"phpunit/phpunit": "~4.8|~5.7|~8.0|~9.0"
 	},
 	"autoload": {
 		"psr-0" : {
